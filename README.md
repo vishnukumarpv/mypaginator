@@ -1,4 +1,4 @@
-# mypaginator
+# pagination script with PHP
 pagination script in php with OOP
 
 to engine dir
