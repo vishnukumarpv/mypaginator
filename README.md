@@ -3,7 +3,7 @@ pagination script in php with OOP
 
 to engine dir
  change limit and number of pages
- 
+  .
  connection establishing is here
  <code>
    $conn       = new mysqli( 'localhost', 'root', '', 'vishnukumar' );
